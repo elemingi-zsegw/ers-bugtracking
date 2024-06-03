@@ -1,8 +1,12 @@
 # Zgłaszanie błędów
 
-## Gdzie zgłaszać błędy
+## Gdzie i jak zgłaszać błędy
 
-Wsztstkie błędy z wybranego produktu uczeń ma zgłaszać w podanym przez prowadzącego Repozytorium `Error reporting systems` zgodnie z zasadami dokonywania zgłoszeń.
+Wsztstkie błędy z wybranego produktu uczeń ma zgłaszać w podanym przez prowadzącego Repozytorium `ers-bugtracking` zgodnie z zasadami dokonywania zgłoszeń.
+
+Wejdź do zakładki **Issues** następnie kliknij zielony przycisk **New Issue** po prawej stronie.
+
+Rozpoczynając zgłoszenie podaj swoją **KLASĘ** oraz **NAZWISKO** następnie wpisz treść zgłoszenia zgodnie z zasadami wymienionymi poniżej.
 
 ## Produkty* zawierające błedy
 
